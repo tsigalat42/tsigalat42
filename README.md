@@ -1,76 +1,59 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BABC&height=140&section=header" width="100%" alt="" />
 
-# Hi, I'm Théo 👋
+# Salut, moi c'est Théo 👋
 
-<a href="https://github.com/tsigalat42">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=00BABC&center=true&vCenter=true&width=600&lines=Software+engineering+student+%40+42+Nice;C+%C2%B7+Unix+%C2%B7+Algorithms;Looking+for+a+work-study+position+(alternance)" alt="Typing intro" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00BABC&width=560&lines=Du+bac+ES+au+code;%C3%89tudiant+%C3%A0+42+Nice;Je+d%C3%A9veloppe+deux+jeux+vid%C3%A9o;En+recherche+d'alternance" alt="Du bac ES au code · Étudiant à 42 Nice · Je développe deux jeux vidéo · En recherche d'alternance" />
 
-<!-- Uncomment and add your LinkedIn URL:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Th%C3%A9o%20Sigalat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-PROFILE/)
--->
-[![42 Nice](https://img.shields.io/badge/42-Nice-000000?style=for-the-badge&logo=42&logoColor=white)](https://42nice.fr)
-![Open to work-study](https://img.shields.io/badge/Open%20to-alternance-00BABC?style=for-the-badge)
+Après un bac ES, j'ai choisi le code. Depuis novembre 2026, j'apprends à **42 Nice** : pas de profs, pas de cours, seulement des projets corrigés par d'autres étudiants. Mon bac ES m'a appris à analyser avant d'agir, et 42 m'apprend à chercher seul, à me tromper et à recommencer jusqu'à ce que ça marche.
 
-</div>
+## 🎯 Ce que je cherche
 
----
+Une **alternance en développement logiciel**. Je suis curieux de tout : backend, systèmes, jeu vidéo… et j'ai envie d'apprendre dans une vraie équipe.
 
-## 🧑‍💻 About me
+<!-- Ajoute ta date de début et ton rythme, par ex. « À partir de février 2027 · 3 semaines en entreprise / 1 semaine à l'école » -->
 
-- 🎓 Student at **42 Nice** since November 2026: peer-to-peer learning, no teachers, no lectures, only projects.
-- 🔧 I write **C** on **Linux**: memory management, pointers, file descriptors, algorithms, Makefiles.
-- 🎯 **Looking for a work-study position (alternance) in software development.**
-  <!-- Add your start date and rhythm here, e.g. "Starting February 2027 · 3 weeks company / 1 week school" -->
-- 🤝 Used to working in pairs and in teams, with code reviews by other students on every project.
+## 🛠️ Ce que j'utilise
 
-## 🛠️ Tech stack
+<img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vscode" alt="C, Bash, Linux, Git, GitHub, VS Code" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,bash,linux,git,github,vscode&theme=dark" alt="C, Bash, Linux, Git, GitHub, VS Code" />
-</p>
+Je n'affiche que ce que j'ai vraiment pratiqué. La liste grandira avec mes projets.
 
-## 🚀 42 journey
+## 🚀 Mon parcours à 42
 
-| Project | What it is | Skills | Status |
+| Projet | C'est quoi | Ce que j'ai appris | |
 |---|---|---|---|
-| **Libft** | My own C standard library (libc functions, strings, linked lists), reused in every later project | Memory, pointers, static libraries | ✅ |
-| **ft_printf** | A reimplementation of `printf` with `%c %s %p %d %i %u %x %X %%` | Variadic functions, base conversion | ✅ |
-| **get_next_line** | Reads a file line by line, with any buffer size, on several file descriptors at once | Static variables, `read`, file descriptors | ✅ |
-| **push_swap** | Sorts numbers with two stacks and a limited set of operations, in as few moves as possible (team project) | Sorting algorithms, complexity | 🔄 |
+| **Libft** | Ma propre bibliothèque C, réutilisée dans tous mes projets | Mémoire, pointeurs, listes chaînées | ✅ |
+| **ft_printf** | Le recodage de `printf` | Fonctions variadiques, conversion de bases | ✅ |
+| **get_next_line** | Lire un fichier ligne par ligne, sur plusieurs fichiers à la fois | Variables statiques, `read`, descripteurs de fichiers | ✅ |
+| **push_swap** | Trier des nombres avec deux piles, en un minimum de coups (en binôme) | Algorithmes de tri, complexité | 🔄 |
 
-<!-- When your repos are public, link each name, e.g. [**Libft**](https://github.com/tsigalat42/libft) -->
+## 🎮 Hors du code
 
-## 📈 Activity
+- 🕹️ **Je développe deux jeux vidéo** en parallèle de 42.
+- 🏃 Je fais du **sport**.
+- 🌍 Je parle **français**, **anglais** et **italien**.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=tsigalat42&theme=dark&hide_border=true&background=0D1117&ring=00BABC&fire=00BABC&currStreakLabel=00BABC" />
-    <img src="https://streak-stats.demolab.com?user=tsigalat42&hide_border=true&ring=00BABC&fire=00BABC&currStreakLabel=00BABC" alt="GitHub streak" />
-  </picture>
-</p>
+## 📫 On discute ?
 
-<!-- When you have public repos, you can add language stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsigalat42&layout=compact&hide_border=true&theme=transparent" alt="Top languages" />
-</p>
+Une alternance, un projet, ou juste parler code et jeux vidéo : écris-moi !
+
+<!-- Décommente et mets ton lien LinkedIn :
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00BABC)](https://www.linkedin.com/in/TON-PROFIL/)
 -->
-
----
+[![42 Nice](https://img.shields.io/badge/42-Nice-0D1117?style=for-the-badge&logo=42&logoColor=00BABC)](https://42nice.fr)
 
 <details>
-<summary>🇫🇷 <b>Version française</b></summary>
+<summary>🇬🇧 <b>English version</b></summary>
 
 <br>
 
-**Salut, moi c'est Théo !** Je suis étudiant à **42 Nice** depuis novembre 2026, une école d'informatique sans profs ni cours, où l'on apprend en faisant des projets et en se corrigeant entre étudiants.
+**Hi, I'm Théo!** After a high school diploma in economics and social sciences, I chose to code. Since November 2026, I've been studying at **42 Nice**, a peer-to-peer coding school with no teachers and no lectures, only projects reviewed by other students.
 
-- Je code en **C** sous **Linux** : gestion de la mémoire, pointeurs, descripteurs de fichiers, algorithmes, Makefiles.
-- 🎯 **Je recherche une alternance en développement logiciel.**
-- J'ai l'habitude de travailler en binôme et en équipe, avec une revue de code par d'autres étudiants à chaque projet.
-
-**Projets réalisés :** Libft (ma propre bibliothèque C), ft_printf (recodage de `printf`), get_next_line (lecture d'un fichier ligne par ligne), et push_swap en cours (algorithme de tri avec deux piles, en équipe).
-
-N'hésitez pas à me contacter !
+- 🎯 **Looking for a work-study position (alternance) in software development.**
+- 🛠️ C, Bash, Linux, Git.
+- 🚀 Projects: Libft (my own C library), ft_printf (a `printf` reimplementation), get_next_line (reading a file line by line), push_swap in progress (sorting algorithm, team project).
+- 🎮 I'm building two video games on the side, I do sports, and I speak French, English and Italian.
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00BABC&height=100&section=footer" width="100%" alt="" />
